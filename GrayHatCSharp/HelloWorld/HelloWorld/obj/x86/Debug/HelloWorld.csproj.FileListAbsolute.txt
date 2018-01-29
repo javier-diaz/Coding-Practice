@@ -1,0 +1,3 @@
+Z:\LACIE SHARE\Documents\workspace\GrayHatC#\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+Z:\LACIE SHARE\Documents\workspace\GrayHatC#\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+Z:\LACIE SHARE\Documents\workspace\GrayHatC#\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe

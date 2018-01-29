@@ -1,0 +1,5 @@
+/Volumes/LACIE SHARE/Documents/workspace/GrayHatC#/ch1_pinvoke/ch1_pinvoke/obj/x86/Debug/ch1_pinvoke.csproj.CoreCompileInputs.cache
+/Volumes/LACIE SHARE/Documents/workspace/GrayHatC#/ch1_pinvoke/ch1_pinvoke/obj/x86/Debug/ch1_pinvoke.exe
+/Volumes/LACIE SHARE/Documents/workspace/GrayHatC#/ch1_pinvoke/ch1_pinvoke/obj/x86/Debug/ch1_pinvoke.pdb
+/Volumes/LACIE SHARE/Documents/workspace/GrayHatC#/ch1_pinvoke/ch1_pinvoke/bin/Debug/ch1_pinvoke.exe
+/Volumes/LACIE SHARE/Documents/workspace/GrayHatC#/ch1_pinvoke/ch1_pinvoke/bin/Debug/ch1_pinvoke.pdb

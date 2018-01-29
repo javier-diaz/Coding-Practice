@@ -1,0 +1,7 @@
+Z:\LACIE SHARE\Documents\workspace\GrayHatC#\ch1_the_basics_advanced\ch1_the_basics_advanced\bin\Release\netcoreapp1.1\ch1_the_basics_advanced.deps.json
+Z:\LACIE SHARE\Documents\workspace\GrayHatC#\ch1_the_basics_advanced\ch1_the_basics_advanced\bin\Release\netcoreapp1.1\ch1_the_basics_advanced.runtimeconfig.json
+Z:\LACIE SHARE\Documents\workspace\GrayHatC#\ch1_the_basics_advanced\ch1_the_basics_advanced\bin\Release\netcoreapp1.1\ch1_the_basics_advanced.runtimeconfig.dev.json
+Z:\LACIE SHARE\Documents\workspace\GrayHatC#\ch1_the_basics_advanced\ch1_the_basics_advanced\obj\Release\netcoreapp1.1\ch1_the_basics_advanced.csprojResolveAssemblyReference.cache
+Z:\LACIE SHARE\Documents\workspace\GrayHatC#\ch1_the_basics_advanced\ch1_the_basics_advanced\obj\Release\netcoreapp1.1\ch1_the_basics_advanced.csproj.CoreCompileInputs.cache
+Z:\LACIE SHARE\Documents\workspace\GrayHatC#\ch1_the_basics_advanced\ch1_the_basics_advanced\obj\Release\netcoreapp1.1\ch1_the_basics_advanced.AssemblyInfo.cs
+Z:\LACIE SHARE\Documents\workspace\GrayHatC#\ch1_the_basics_advanced\ch1_the_basics_advanced\obj\Release\netcoreapp1.1\ch1_the_basics_advanced.dll

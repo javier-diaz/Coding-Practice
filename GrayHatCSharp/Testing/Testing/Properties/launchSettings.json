@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Testing": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Executable"
+    }
+  }
+}
