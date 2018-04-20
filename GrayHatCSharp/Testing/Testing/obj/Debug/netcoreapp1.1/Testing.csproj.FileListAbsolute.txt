@@ -1,8 +1,0 @@
-Z:\LACIE SHARE\Documents\workspace\GrayHatC#\Testing\Testing\bin\Debug\netcoreapp1.1\Testing.deps.json
-Z:\LACIE SHARE\Documents\workspace\GrayHatC#\Testing\Testing\bin\Debug\netcoreapp1.1\Testing.runtimeconfig.json
-Z:\LACIE SHARE\Documents\workspace\GrayHatC#\Testing\Testing\bin\Debug\netcoreapp1.1\Testing.runtimeconfig.dev.json
-Z:\LACIE SHARE\Documents\workspace\GrayHatC#\Testing\Testing\obj\Debug\netcoreapp1.1\Testing.csprojResolveAssemblyReference.cache
-Z:\LACIE SHARE\Documents\workspace\GrayHatC#\Testing\Testing\obj\Debug\netcoreapp1.1\Testing.csproj.CoreCompileInputs.cache
-Z:\LACIE SHARE\Documents\workspace\GrayHatC#\Testing\Testing\obj\Debug\netcoreapp1.1\Testing.AssemblyInfo.cs
-Z:\LACIE SHARE\Documents\workspace\GrayHatC#\Testing\Testing\obj\Debug\netcoreapp1.1\Testing.dll
-Z:\LACIE SHARE\Documents\workspace\GrayHatC#\Testing\Testing\bin\Debug\netcoreapp1.1\Testing.dll

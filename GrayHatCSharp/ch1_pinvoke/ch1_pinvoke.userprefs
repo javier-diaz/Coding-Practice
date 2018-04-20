@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{92EEE400-A1D9-48B9-8763-4DCD22E5A4E5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ch1_pinvoke/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ch2_listing2-12.cs">
     <Files>
-      <File FileName="ch1_pinvoke/Program.cs" Line="24" Column="42" />
+      <File FileName="ch1_pinvoke/Program.cs" Line="29" Column="1" />
+      <File FileName="../ch2_listing2-12.cs" Line="30" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
